@@ -1,0 +1,23 @@
+aid: ember
+name: Ember
+description: >-
+  Ember.js is a productive, battle-tested JavaScript framework for building
+  modern web applications. It includes everything you need to build rich user
+  interfaces that work on any device, with conventions over configuration,
+  built-in routing, data management, and a powerful component model.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - JavaScript
+  - Framework
+  - Web Development
+  - Frontend
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ember/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
