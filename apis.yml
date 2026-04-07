@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JavaScript
   - Framework
-  - Web Development
   - Frontend
+  - JavaScript
+  - Web Development
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ember/refs/heads/main/apis.yml
 created: '2026-03-16'
