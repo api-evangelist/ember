@@ -1,0 +1,13 @@
+{
+  "repo": "ember",
+  "feeds": [
+    {
+      "source": "https://blog.emberjs.com/",
+      "feed_url": "https://blog.emberjs.com/rss.xml",
+      "saved": 10,
+      "title": "Ember.js Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:27:39Z"
+}
