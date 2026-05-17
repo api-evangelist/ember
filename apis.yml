@@ -31,7 +31,7 @@ common:
     type: Documentation
   - name: API Reference
     url: https://api.emberjs.com/
-    type: API Reference
+    type: APIReference
   - name: Blog
     url: https://blog.emberjs.com/
     type: Blog
