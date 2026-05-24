@@ -53,6 +53,8 @@ common:
   - name: Ember Data
     url: https://github.com/emberjs/data
     type: SourceCode
+  - type: LLMsTxt
+    url: https://api.emberjs.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
