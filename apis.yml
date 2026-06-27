@@ -43,7 +43,7 @@ common:
     type: ReleaseNotes
   - name: Discussion Forum
     url: https://discuss.emberjs.com/
-    type: Forum
+    type: Forums
   - name: Discord Community
     url: https://discord.gg/emberjs
     type: Chat
@@ -53,7 +53,7 @@ common:
   - name: Ember Data
     url: https://github.com/emberjs/data
     type: SourceCode
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://api.emberjs.com/llms.txt
 maintainers:
   - FN: Kin Lane
