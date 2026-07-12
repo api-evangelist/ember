@@ -23,6 +23,10 @@ access: Open Source
 position: Tooling
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ember-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ember-domain-security.yml
   - name: Ember.js Website
     url: https://emberjs.com/
     type: Website
