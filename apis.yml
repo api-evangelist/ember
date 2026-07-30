@@ -7,7 +7,18 @@ description: >-
   three-level testing framework, the Glimmer rendering engine, and a six-week
   release cycle that emphasizes stability and easy upgrades through automated
   codemods.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ember.png
 type: Index
 tags:
   - Framework
